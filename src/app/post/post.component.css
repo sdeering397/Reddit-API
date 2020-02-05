@@ -1,0 +1,21 @@
+.display{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+img{
+    max-width: 25%;
+    height: 150px;
+}
+
+h1{
+    color: darkred;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+a{
+    text-decoration: underline;
+}
